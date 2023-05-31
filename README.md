@@ -23,6 +23,9 @@ chs('str');             // String
 chramp('r', x);         // Spline Ramp
 vector(chramp('c', x)); // RGB Ramp
 ```
+# Ассеты
+"\hip\hda\subuv_viewer.hda" - Viewer для спрайтшитов на геометрии
+
 # Шпаргалки по Houdini
 "/hip/Examples.hip" - тут лежат примеры описанные ниже. (Версия Houdini 19.0.720)
 ____
